@@ -63,7 +63,7 @@
 
 ## 📫 Connect with Me
 
-- 💼 LinkedIn: sanujarasanajna638 
+- 💼 LinkedIn: sanuja rasanajna 
 - 📧 Email: sanujarasanajna638@gmail.com  
 - 🧠 Let’s collaborate on practical tech, automation, and creative ventures!
 
