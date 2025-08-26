@@ -62,8 +62,8 @@
 
 ## 📫 Connect with Me
 
-- 💼 LinkedIn: [Coming Soon]  
-- 📧 Email: sanujarasanajna2007@gmail.com  
+- 💼 LinkedIn: sanujarasanajna638 
+- 📧 Email: sanujarasanajna638@gmail.com  
 - 🧠 Let’s collaborate on practical tech, automation, and creative ventures!
 
 ---
