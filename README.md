@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Sanuja Rasanajna
 
 🎓 Second-year Software Engineering undergraduate at NIBM Kurunegala  
-💻 Passionate about building practical tech solutions and optimizing workflows  
-🎯 Founder of VividGlyph | T-shirt design meets digital creativity  
+💻 Passionate about building practical tech solutions and optimizing workflows   
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SanujaRasanajna2007&label=Profile%20views&color=0e75b6&style=flat)
 ![GitHub Followers](https://img.shields.io/github/followers/SanujaRasanajna2007?label=Follow&style=social)
