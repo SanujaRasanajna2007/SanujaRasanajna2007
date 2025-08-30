@@ -32,7 +32,6 @@
 - 🔄 Automating large file transfers via Telegram bots  
 - 📚 Comparative law assignments with a focus on rule of law  
 - 🛍️ E-commerce site for Janaka Electronics (team project)  
-- 🎮 Performance testing on AMD Radeon 610M for gaming optimization
 
 ---
 
