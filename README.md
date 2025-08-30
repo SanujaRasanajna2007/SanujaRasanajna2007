@@ -14,7 +14,6 @@
 - 📱 Android Development: Kotlin, XML  
 - ⚙️ Automation & Productivity: Telegram bots, file transfer optimization  
 - 🧠 Legal Analysis: Comparative constitutional law & rule of law frameworks  
-- 🎮 Tech Enthusiast: Gaming performance tweaks, aim trainers, and more
 
 ---
 
